@@ -1,0 +1,13 @@
+body {
+    background-color: #ECEFF1;
+    color: #263238;
+}
+
+.heading {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.heading h1 {
+    margin-top: 0.25em;
+}
